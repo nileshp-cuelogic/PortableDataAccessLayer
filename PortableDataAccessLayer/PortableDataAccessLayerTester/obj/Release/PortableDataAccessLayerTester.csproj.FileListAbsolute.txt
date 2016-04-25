@@ -1,0 +1,10 @@
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\obj\Release\PortableDataAccessLayerTester.csprojResolveAssemblyReference.cache
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\PortableDataAccessLayerTester.exe.config
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\PortableDataAccessLayerTester.exe
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\PortableDataAccessLayerTester.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\PortableDataAccessLayer.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\Newtonsoft.Json.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\PortableDataAccessLayer.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\bin\Release\Newtonsoft.Json.xml
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\obj\Release\PortableDataAccessLayerTester.exe
+D:\PortableDataAccessLayer\PortableDataAccessLayerTester\obj\Release\PortableDataAccessLayerTester.pdb

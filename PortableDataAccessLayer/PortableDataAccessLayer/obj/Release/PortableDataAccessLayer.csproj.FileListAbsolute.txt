@@ -1,0 +1,7 @@
+D:\PortableDataAccessLayer\PortableDataAccessLayer\bin\Release\PortableDataAccessLayer.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayer\bin\Release\PortableDataAccessLayer.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayer\bin\Release\Newtonsoft.Json.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayer\bin\Release\Newtonsoft.Json.xml
+D:\PortableDataAccessLayer\PortableDataAccessLayer\obj\Release\PortableDataAccessLayer.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayer\obj\Release\PortableDataAccessLayer.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayer\obj\Release\PortableDataAccessLayer.csprojResolveAssemblyReference.cache

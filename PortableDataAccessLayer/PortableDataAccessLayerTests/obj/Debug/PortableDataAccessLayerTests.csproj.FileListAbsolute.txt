@@ -1,0 +1,8 @@
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\obj\Debug\PortableDataAccessLayerTests.csprojResolveAssemblyReference.cache
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\bin\Debug\PortableDataAccessLayerTests.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\bin\Debug\PortableDataAccessLayerTests.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\bin\Debug\PortableDataAccessLayer.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\bin\Debug\PortableDataAccessLayer.pdb
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\obj\Debug\PortableDataAccessLayerTests.dll
+D:\PortableDataAccessLayer\PortableDataAccessLayerTests\obj\Debug\PortableDataAccessLayerTests.pdb
